@@ -21,7 +21,7 @@
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
-$ git clone https://github.com/Dunia-Kode/tema
+$ git clone https://github.com/awnsntt/termux-style
 $ cd tema
 $ python linux.py
 ```
